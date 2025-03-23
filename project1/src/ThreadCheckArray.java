@@ -1,4 +1,3 @@
-package project1;
 public class ThreadCheckArray implements Runnable 
 {
 	private boolean flag;
