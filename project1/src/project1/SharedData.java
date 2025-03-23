@@ -1,3 +1,4 @@
+package project1;
 public class SharedData 
 {
 	private int [] array;
